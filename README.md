@@ -74,7 +74,7 @@ The script will display:
 Contributions are welcome! Please submit pull requests or open issues on the GitHub repository.
 
 ## License
-[Choose an appropriate license, e.g., MIT]
+The MIT License (MIT).
 
 ## Author
 [godwimp]
